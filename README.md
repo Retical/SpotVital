@@ -11,7 +11,10 @@
 </p>
 
 ## What is SpotVital?
+* An app📲 that let you share🎭 Real time locations🧿
+=======
 * An app📲 that let you share🎭 Real time locations.🧿🧿
+
 
 
 # How to📲 Download SpotVital?
@@ -35,7 +38,11 @@
 * Step-4: Now add 🛸Circle Code in Join Circle Activity.
 * Step-5: Now you can see the real time location of your friend🧒
 
+
+# Request from Retical😅
+=======
 # Request from Retical
+
 * Rate our app on  google Play store ⭐⭐⭐⭐⭐
 * Comment and tell us about your experience 📱
 * Our team will help you 24X7😎
