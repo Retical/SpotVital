@@ -12,14 +12,13 @@
 
 ## What is SpotVital?
 * An app📲 that let you share🎭 Real time locations🧿
-=======
-* An app📲 that let you share🎭 Real time locations.🧿🧿
+
 
 
 
 # How to📲 Download SpotVital?
 
-* Visit 👀 https://play.google.com/store/apps/details?id=com.spotvital.spotvital
+* Visit  https://play.google.com/store/apps/details?id=com.spotvital.spotvital
 
 
 
@@ -40,8 +39,7 @@
 
 
 # Request from Retical😅
-=======
-# Request from Retical
+
 
 * Rate our app on  google Play store ⭐⭐⭐⭐⭐
 * Comment and tell us about your experience 📱
